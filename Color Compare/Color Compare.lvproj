@@ -12,8 +12,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="notes.vi" Type="VI" URL="../notes.vi"/>
-		<Item Name="Colors.ctl" Type="VI" URL="../Colors.ctl"/>
+		<Item Name="Utilities" Type="Folder">
+			<Item Name="Colors.ctl" Type="VI" URL="../Utilities/Colors.ctl"/>
+		</Item>
 		<Item Name="Color Strategy.lvclass" Type="LVClass" URL="../Color Strategy/Color Strategy.lvclass"/>
 		<Item Name="Percent Difference.lvclass" Type="LVClass" URL="../Percent Difference/Percent Difference.lvclass"/>
 		<Item Name="Aim Lower Threshold.lvclass" Type="LVClass" URL="../Aim Lower Threshold/Aim Lower Threshold.lvclass"/>
