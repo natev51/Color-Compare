@@ -15,6 +15,10 @@
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Colors.ctl" Type="VI" URL="../Utilities/Colors.ctl"/>
 		</Item>
+		<Item Name="Object FP and BD Placement" Type="Folder">
+			<Item Name="BD Color Strategy.vi" Type="VI" URL="../Object FP and BD Placement/BD Color Strategy.vi"/>
+			<Item Name="FP Color Strategy.vi" Type="VI" URL="../Object FP and BD Placement/FP Color Strategy.vi"/>
+		</Item>
 		<Item Name="Color Strategy.lvclass" Type="LVClass" URL="../Color Strategy/Color Strategy.lvclass"/>
 		<Item Name="Percent Difference.lvclass" Type="LVClass" URL="../Percent Difference/Percent Difference.lvclass"/>
 		<Item Name="Aim Lower Threshold.lvclass" Type="LVClass" URL="../Aim Lower Threshold/Aim Lower Threshold.lvclass"/>
