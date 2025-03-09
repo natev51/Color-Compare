@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-07 21:33:36" Modified_Date="2025-03-08 10:45:20" Creator="natev" Comments="" ID="2d651094187f3eedf88deea03dd07936">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-07 21:33:36" Modified_Date="2025-03-09 11:00:27" Creator="natev" Comments="" ID="c633bbd3372a1c43b0bb423c7f47a188">
   <Library_General_Settings>
     <Package_File_Name>NathanCo_lib_Color_Compare</Package_File_Name>
-    <Library_Version>1.0.0.12</Library_Version>
+    <Library_Version>1.0.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
     <Library_Output_Folder>..\Package</Library_Output_Folder>
@@ -246,7 +246,7 @@
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>BD Color Strategy.vi</NameSub_Menu_Name>
-        <Short_Name/>
+        <Short_Name>Color Strategy</Short_Name>
         <is_Merge_VI>true</is_Merge_VI>
         <Position>
           <Row>1</Row>
@@ -256,7 +256,7 @@
         <Path>..\Source\Object FP and BD Placement\BD Color Strategy.vi</Path>
         <VI_Title>Color Strategy.lvclass</VI_Title>
       </Items_Data>
-      <GUID>16423A3E4E593054F66C92E0C1B384A1</GUID>
+      <GUID>2F5AB6CCBD2B9508C7A9F28C0169AFE0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -305,7 +305,7 @@
         <Path>..\Source\Aim Lower Threshold\Configure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C058D8A51D1169FD2EBEAB99CF885A4C</GUID>
+      <GUID>45760362DB14617BA61090AE5A5B6FC4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -354,7 +354,7 @@
         <Path>..\Source\Aim Middle Threshold\Configure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3B343BCBB84E22725C43EFC2567F114D</GUID>
+      <GUID>9C469A3756206F0436EB68B6641ECB4C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -417,7 +417,7 @@
         <Path>..\Source\Percent Difference\Write Setpoint.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F0EDD71434C2FED5477135F48BD72FAF</GUID>
+      <GUID>D86501EC866006DD3B1DAB2933AB4DDC</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -442,7 +442,7 @@
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>FP Color Strategy.vi</NameSub_Menu_Name>
-        <Short_Name/>
+        <Short_Name>Color Strategy</Short_Name>
         <is_Merge_VI>true</is_Merge_VI>
         <Position>
           <Row>1</Row>
@@ -452,7 +452,7 @@
         <Path>..\Source\Object FP and BD Placement\FP Color Strategy.vi</Path>
         <VI_Title>Color Strategy.lvclass</VI_Title>
       </Items_Data>
-      <GUID>B1E51DB5CCCDA53A1C5A06B0CBF463AC</GUID>
+      <GUID>3F76D97D5BC7DF4D917E6D0FFABB3D5C</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
